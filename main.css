@@ -1,0 +1,36 @@
+.row > * {
+    border: 1px solid black
+   
+}
+
+div {
+    text-align: center;
+}
+.aqua {
+    background-color: aqua;
+    color: white;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.red {
+    background-color: red;
+}
